@@ -1,0 +1,20 @@
+/* Basic CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding-top: 60px; /* To avoid content being hidden under the fixed navbar */
+  background-color: #f4f4f4;
+}
+
+/* Optional: Style for main content */
+main {
+  padding: 1rem;
+  max-width: 800px;
+  margin: auto;
+}
