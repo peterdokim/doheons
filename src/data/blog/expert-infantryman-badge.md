@@ -1,6 +1,6 @@
 ---
 title: Expert Infantryman Badge
-author: Do heon Kim
+author: Doheon Kim
 pubDatetime: 2026-02-16T19:20:00Z
 featured: true
 draft: false

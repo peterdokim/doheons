@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://doheons.github.io/", // replace this with your deployed domain
+  website: "https://doheons.vercel.app/", // replace this with your deployed domain
   author: "Doheon Kim",
-  profile: "https://github.com/doheons",
+  profile: "https://github.com/peterdokim",
   desc: "A personal blog about software development, web technologies, and my learning journey.",
   title: "Doheon Kim",
   ogImage: "astropaper-og.jpg",

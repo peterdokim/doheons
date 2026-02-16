@@ -22,4 +22,4 @@ This is where I share my thoughts on web development, tutorials, project walkthr
 
 ## Get In Touch
 
-Feel free to reach out via [GitHub](https://github.com/doheons) or [LinkedIn](https://linkedin.com/in/doheonkim).
+Feel free to reach out via [GitHub](https://github.com/peterdokim) or [LinkedIn](https://linkedin.com/in/dokim19).
